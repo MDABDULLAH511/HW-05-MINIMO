@@ -1,0 +1,361 @@
+/* font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+h1,
+h6,
+p,
+a,
+button,
+li {
+    font-family: 'Playfair Display', serif;
+}
+
+h5 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+
+    overflow: hidden;
+    margin: 50px 5%;
+    width: 90%;
+}
+
+.logo {
+
+    width: 20%;
+    float: left;
+}
+
+.logo img {}
+
+.manu {
+
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+
+.manu ul {
+
+    list-style: none;
+    float: right;
+}
+
+.manu ul li {
+
+    float: left;
+    margin-left: 50px;
+}
+
+.manu ul li a {
+
+    text-decoration: none;
+    color: #626262;
+    text-transform: uppercase;
+}
+
+.banner {
+
+    width: 90%;
+    margin-left: 5%;
+
+}
+
+.banner img {
+
+    width: 100%;
+}
+
+.about_photodairy {
+    width: 80%;
+    margin-left: 10%;
+
+}
+
+.about_photodairy h5 {
+
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+.about_photodairy h1 {
+
+    color: #626262;
+    margin-top: 20px;
+}
+
+.about_photodairy p {
+
+    color: #626262;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+.about_photodairy h6 {
+
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+
+.lifestyle {
+
+    width: 80%;
+    margin: 80px 10%;
+    overflow: hidden;
+}
+
+.lifestyle_1 {
+
+    width: 46%;
+    float: left;
+}
+
+.lifestyle_2 {
+    width: 46%;
+    float: right;
+}
+
+.lifestyle_1 img {
+    width: 100%;
+}
+
+.lifestyle_1 h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin: 25px 0px;
+}
+
+.lifestyle_1 h1 {
+    color: #626262;
+    margin-bottom: 15px;
+}
+
+
+.lifestyle_1 p {
+    color: #626262;
+    font-size: 14px;
+}
+
+.lifestyle_2 img {
+
+    width: 100%;
+}
+
+
+.lifestyle_2 h5 {
+
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin: 25px 0px;
+}
+
+
+.lifestyle_2 h1 {
+
+    color: #626262;
+    margin-bottom: 15px;
+}
+
+
+.lifestyle_2 p {
+
+    color: #626262;
+    font-size: 14px;
+}
+
+
+
+.photodairy {
+
+    width: 80%;
+    margin: 80px 10%;
+    overflow: hidden;
+}
+
+.photodairy_1 {
+
+    width: 46%;
+    float: left;
+}
+
+.photodairy_2 {
+    width: 46%;
+    float: right;
+}
+
+.photodairy_1 img {
+    width: 100%;
+}
+
+.photodairy_1 h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin: 25px 0px;
+}
+
+.photodairy_1 h1 {
+    color: #626262;
+    margin-bottom: 15px;
+}
+
+
+.photodairy_1 p {
+    color: #626262;
+    font-size: 14px;
+}
+
+.photodairy_2 img {
+
+    width: 100%;
+}
+
+
+.photodairy_2 h5 {
+
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin: 25px 0px;
+}
+
+
+.photodairy_2 h1 {
+
+    color: #626262;
+    margin-bottom: 15px;
+}
+
+
+.photodairy_2 p {
+
+    color: #626262;
+    font-size: 14px;
+}
+
+.newsletter {
+
+    background: #f0f0f0;
+    padding: 55px 0px;
+    margin: 80px 0%;
+}
+
+.sing_up {
+
+    width: 23%;
+    margin: auto;
+    position: relative;
+}
+
+.sing_up h1 {
+
+    color: #333333;
+    font-weight: 400;
+    margin-bottom: 70px;
+}
+
+.sing_up input {
+
+    width: 100%;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #333;
+    color: #333;
+    padding: 10px 0%;
+}
+
+.sing_up input::placeholder {}
+
+.sing_up input:focus {
+    outline: none;
+}
+
+.sing_up img {
+
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+}
+
+.loadmore {
+
+    padding: 30px 0% 130px;
+    text-align: center;
+}
+
+.loadmore button {
+
+    padding: 15px 30px;
+    background: transparent;
+    font-size: 16px;
+    border: 1px solid #626262;
+    cursor: pointer;
+    color: #626262;
+}
+
+footer {
+    background-color: #f0f0f0;
+    overflow: hidden;
+    padding: 25px 0%;
+}
+
+.terms {
+
+    width: 30%;
+    float: left;
+    margin-left: 130px;
+}
+
+.terms ul {
+
+    overflow: hidden;
+    list-style: none;
+}
+
+.terms ul li {
+
+    float: left;
+    margin-right: 25px;
+}
+
+.terms ul li a {
+
+    text-decoration: none;
+    ;
+    ;
+    color: #626262;
+}
+
+
+.social_midea {
+
+    width: 30%;
+    float: right;
+    margin-right: 60px;
+}
+
+.social_midea ul {
+
+    float: right;
+    list-style: none;
+}
+
+.social_midea ul li {
+
+    float: left;
+    color: #626262;
+    margin-left: 20px;
+}
+
+.social_midea ul li a {
+
+    text-decoration: none;
+    color: #626262;
+}
